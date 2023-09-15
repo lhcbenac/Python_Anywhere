@@ -1,15 +1,8 @@
 
 from datetime import datetime
-from datetime import timedelta
-import time
-import timedelta
-import MetaTrader5 as mt5
 import pandas as pd
-import mplfinance as mpl
 import yfinance as yf
 import openpyxl
-# Itens para fazer o request dos dados do Mt5
-from pandas import DataFrame
 import requests
 
 
